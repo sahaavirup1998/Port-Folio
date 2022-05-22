@@ -29,7 +29,7 @@ const Works = () => {
                     <span style={{ color: darkMode ? 'grey' : '' }}>Some Special</span>
                     <span>Achivements</span>
                     <span className="font25">
-                        Won 2nd prize in cricuit designing competition at Techfest
+                        Won 2nd prize in Circuit Designing competition at Techfest
                         <br />
                         Won 2nd prize at Raspberry-pi coding competition
                     </span>
