@@ -29,9 +29,9 @@ const Works = () => {
                     <span style={{ color: darkMode ? 'grey' : '' }}>Some Special</span>
                     <span>Achivements</span>
                     <span className="font25">
-                        Won 2nd prize at Techfest
+                        Won 2nd prize in cricuit designing competition at Techfest
                         <br />
-                        Won 2nd prize at Raspberry-pi coding<br /> competition
+                        Won 2nd prize at Raspberry-pi coding competition
                     </span>
                     <button className="button s-button">Hire Me</button>
                     <div className="blur s-blur1" style={{ background: "#ABF1FF94" }}></div>
