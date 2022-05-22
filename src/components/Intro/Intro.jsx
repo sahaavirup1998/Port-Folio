@@ -27,7 +27,7 @@ function Intro() {
             <div className="i-name">
                 <span style={{color: darkMode ? 'grey' : ''}}>Hy! I am</span>
                 <span>Avirup Saha</span>
-                <span>Frontend Developer with nearly one year of experience in Email Development and webdesigning and develpment. Also have knowledge in UI/UX designing</span>
+                <span>Frontend Developer with nearly one year of experience in Email Development and webdesigning and develpment. Also have knowledge in UI/UX designing.</span>
             </div>
             <buton className="button i-button">Hire me</buton>
             <div className="i-icons">
